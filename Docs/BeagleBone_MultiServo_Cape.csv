@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"GYRO1,OLED1,SONAR1","Conn_01x04_Socket","~","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical","3",""
+"J1","Screw_Terminal_01x02","~","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal","1",""
+"J2,J3,J4,J5,J6,J7,J8,J9,J10,J11,J12,J13,J14,J15","Conn_01x03_Pin","~","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","14",""
+"P8,P9","BeagleBone_Black_Header","~","Connector_PinHeader_2.54mm:PinHeader_2x23_P2.54mm_Vertical","2",""
+"R7","1000","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","1",""
+"R8","2000","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","1",""
+"TOUCH1","Conn_01x03_Socket","~","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical","1",""
